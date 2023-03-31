@@ -1,7 +1,7 @@
 ## Tic-Tac-Toe
 
 Here is a Tic-Tac-Toe game created using HTML CSS and JavaScript. This game allows for the participation of two players by making draws on the 3x3 grid.
-The description about the game is given below. Get the access to the game through:https://tictactoe-ayeshasiddiqua.netlify.app/
+Get the access to the game through:https://tictactoe-ayeshasiddiqua.netlify.app/
 
 ###  How the game works
 
