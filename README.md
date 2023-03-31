@@ -12,7 +12,7 @@ win the game.The game can be reset again after a round with the reset button pro
 
 ------
 
-The game also uses media queries to make it responsive to the device screen. To make it more appealing I added sound effects to it. Whenever the player 
+The game also media queries to make it responsive to the device screen. To make it more appealing I added sound effects to it. Whenever the player 
 clicks on any of the squares or when a player wins a game the sounds are played.
 
 This game was created by Ayesha Siddiqua. Feel free to use the code and customize it on your needs.
