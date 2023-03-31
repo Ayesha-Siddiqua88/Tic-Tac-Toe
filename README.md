@@ -10,7 +10,7 @@ while the other eventually takes O. The entry is to be made in a 3x3 grid or mat
 is to get the same three marks in a row - horizontally, vertically or diagonally in a 3x3 grid. The first player to successfully acheive this goal will 
 win the game.The game can be reset again after a round with the reset button provided.
 
--------
+------
 
 The game also uses media queries to make it responsive to the device screen. To make it more appealing I added sound effects to it. Whenever the player 
 clicks on any of the squares or when a player wins a game the sounds are played.
